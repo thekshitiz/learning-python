@@ -5,8 +5,7 @@ Add
 
 //TODO
 
-- what is here...
-- what problem...
-- what is next...
+- Python codes of my personal interest
+
 
 
